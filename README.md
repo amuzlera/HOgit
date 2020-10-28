@@ -1,5 +1,7 @@
 Estoy editando el primer cambio!
 
+Estoy editando el segundo cambio en la rama charlas
+
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
