@@ -1,4 +1,4 @@
 #Qué opinamos de los ejercicios?
 
-Incluso mejor que las charlas!
+Me costaron un montoooooooooooooooon. Pero casi termino todos!
 
